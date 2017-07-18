@@ -1,0 +1,19 @@
+
+html, body, :global(#root) {
+  height: 100%;
+  background-color: #ececec;
+}
+:global(.normal) {
+  font-family: Georgia, sans-serif;
+  text-align: center;
+}
+:global(.wrapper) {
+  background: #fff;
+  margin: 0 48px;
+}
+:global(.ant-spin) {
+  left: 0;
+}
+:global(a) {
+  color: #333333;
+}

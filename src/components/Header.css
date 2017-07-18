@@ -1,0 +1,25 @@
+.header {
+  -webkit-transition: opacity .5s;
+  transition: opacity .5s;
+  background: #fff;
+  height: 80px;
+  margin-bottom: 24px;
+  padding: 3em 0 48px 48px;
+  width: 100%;
+}
+.clearfix {
+  zoom: 1;
+}
+.ant-row {
+  margin-left: 0;
+  margin-right: 0;
+  height: auto;
+  zoom: 1;
+  display: block;
+}
+.title {
+  text-align: left;
+}
+.ant-menu-span {
+  color: #333333;
+}
