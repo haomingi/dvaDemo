@@ -1,6 +1,6 @@
 {
   "entry": "src/index.js",
-  "publicPath": "/",
+  "publicPath": "./",
   "env": {
     "development": {
       "extraBabelPlugins": [
