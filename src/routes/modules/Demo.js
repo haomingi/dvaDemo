@@ -3,7 +3,7 @@
  */
 import React from 'react'
 import { connect } from 'dva'
-import Header from '../components/Header'
+import Header from '../../components/Header'
 import { Row, Col, Menu, Icon } from 'antd';
 import { Link } from 'dva/router'
 

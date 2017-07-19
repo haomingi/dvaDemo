@@ -30,7 +30,8 @@ app.use(createLoading());
 // 3. Model
 // app.model(require('./models/example'));
 //app.model(require('./models/products'));
-model(app);
+//路由改为按需加载，此处不需要引入了。
+//model(app);
 
 // 4. Router
 app.router(require('./router'));

@@ -3,8 +3,8 @@
  */
 import React from 'react'
 import { connect } from 'dva'
-import ProductList from '../components/ProductList'
-import Header from '../components/Header'
+import ProductList from '../../components/ProductList'
+import Header from '../../components/Header'
 import { Row, Col, Menu, Icon } from 'antd';
 import { Link } from 'dva/router'
 
