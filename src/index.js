@@ -5,7 +5,7 @@ import createLoading from 'dva-loading';
 //import createLogger from 'redux-logger';
 //import option from './loggerOptions'
 import { message } from 'antd'
-import model from './model'
+//import model from './model'
 import './index.css';
 
 // 1. Initialize
